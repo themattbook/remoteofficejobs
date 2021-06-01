@@ -1,0 +1,12 @@
+{
+  "Listing": {
+    "created_at": "date",
+    "is_featured": "string",
+    "company_logo": "string",
+    "company_url": "string",
+    "company_name": "string",
+    "job_location": "string",
+    "job_title": "string",
+    "listing_url": "string"
+  }
+}
